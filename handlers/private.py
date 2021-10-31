@@ -20,7 +20,7 @@ async def start(_, message: Message):
                   ],[
                     InlineKeyboardButton(
                         "❰Owner's queen❱", url="https://t.me/attitude_girl_niki")
-                    )]
+                    ]
             ]
         ),
      disable_web_page_preview=True
